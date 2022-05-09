@@ -1,0 +1,451 @@
+html#marw *
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    background-color:rgb(248, 249, 249);
+}
+html#marw .hero
+{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    padding: 0 5%;
+    display: flex;
+    /*align-items: center;*/
+    /*justify-content: center;*/
+}
+html#marw nav
+{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 20px 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+html#marw nav ul li
+{
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+}
+html#marw nav ul li a
+{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}
+html#marw span .h11
+{
+    font-size: 35px;
+    margin: 40px;
+    padding-top: 50px;
+    text-align:center; 
+    color: #000;
+    display: block; 
+}
+html#marw .h22
+{
+    width: 100%;
+    height: auto;
+    padding: 1%;
+}
+.container
+{
+    position: absolute;
+    width: inherit;
+    display: flex;
+}
+html#marw .h33 div img
+{
+    float: left;
+    margin-left: 2%;
+    height: 250px;
+    width: 400px;
+}
+html#marw .h33 .details h2
+{
+    float: right;
+    margin-left: 60px;
+}
+html#marw .h33 .details h4
+{
+    font-size:40px;
+    float: right;
+    line-height: 1.2;
+    font-family:'Schehrazade', serif;
+    text-align: justify;
+    direction: rtl;
+}
+html#marw .list
+{
+    border: 1px solid rgb(42, 42, 42);
+    border-radius: 2%;
+    float: right;
+    list-style-position: inside;
+    direction: rtl;
+    padding: 5px;
+    margin-top: 3%;
+    line-height: 1.4;
+}
+
+
+html#marw .h44
+{
+    color: rgb(248, 26, 26);
+    background-color: rgb(210, 204, 204);
+    font-size: 2em;
+    float: right;
+    width: 100%;
+    direction: rtl;
+    margin-top: 20px;
+    padding: 1.5%;
+
+}
+html#marw .mrakeshphoto
+{
+    margin-top: 20px;
+    width: 100%;
+    height: 500px;
+}
+html#marw figure .cap1
+{
+    text-align: center;
+    color: rgb(144, 139, 139);
+}
+html#marw .h55
+{
+    font-size:x-large;
+    float: right;
+    text-align:justify;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    direction: rtl;
+    line-height: 1;
+    padding-top: 10px;
+}
+
+html#marw .h66
+{
+    color: rgb(248, 26, 26);
+    background-color: rgb(210, 204, 204);
+    font-size: 2em;
+    float: right;
+    width: 100%;
+    direction: rtl;
+    margin-top: 20px;
+    padding: 1.5%;
+}
+html#marw .tangaphoto
+{
+    margin-top: 20px;
+    width: 100%;
+    height: 500px;
+}
+html#marw figure .cap2
+{
+    text-align: center;
+    color: rgb(144, 139, 139);
+}
+html#marw .h77
+{
+    font-size:x-large;
+    float: right;
+    text-align:justify;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    direction: rtl;
+    line-height: 1;
+    padding-top: 10px;
+}
+
+html#marw .h88
+{
+    color: rgb(248, 26, 26);
+    background-color: rgb(210, 204, 204);
+    font-size: 2em;
+    float: right;
+    width: 100%;
+    direction: rtl;
+    margin-top: 20px;
+    padding: 1.5%;
+
+}
+html#marw .robatphoto
+{
+    margin-top: 20px;
+    width: 100%;
+    height: 500px;
+}
+html#marw figure .cap3
+{
+    text-align: center;
+    color: rgb(144, 139, 139);
+}
+html#marw .h99
+{
+    font-size:x-large;
+    float: right;
+    text-align:justify;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    direction: rtl;
+    line-height: 1;
+    padding-top: 10px;
+}
+
+html#marw .h111
+{
+    color: rgb(248, 26, 26);
+    background-color: rgb(210, 204, 204);
+    font-size: 2em;
+    float: right;
+    width: 100%;
+    direction: rtl;
+    margin-top: 20px;
+    padding: 1.5%;
+
+}
+html#marw .aghaderphoto
+{
+    margin-top: 20px;
+    width: 100%;
+    height: 500px;
+}
+html#marw figure .cap4
+{
+    text-align: center;
+    color: rgb(144, 139, 139);
+}
+html#marw .h222
+{
+    font-size:x-large;
+    float: right;
+    text-align:justify;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    direction: rtl;
+    line-height: 1;
+    padding-top: 10px;
+}
+
+html#marw .h333
+{
+    color: rgb(248, 26, 26);
+    background-color: rgb(210, 204, 204);
+    font-size: 2em;
+    float: right;
+    width: 100%;
+    direction: rtl;
+    margin-top: 20px;
+    padding: 1.5%;
+
+}
+html#marw .fasphoto
+{
+    margin-top: 20px;
+    width: 100%;
+    height: 500px;
+}
+html#marw figure .cap5
+{
+    text-align: center;
+    color: rgb(144, 139, 139);
+}
+html#marw .h444
+{
+    font-size:x-large;
+    float: right;
+    text-align:justify;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    direction: rtl;
+    line-height: 1;
+    padding-top: 10px;
+}
+html#marw .cap1
+{
+    margin: 0;
+}
+html#marw .cap2
+{
+    margin: 0;
+}
+html#marw .cap3
+{
+    margin: 0;
+}
+html#marw .cap4
+{
+    margin: 0;
+}
+html#marw .cap5
+{
+    margin: 0;
+}
+html#marw .fp 
+{
+    font-size:x-large;
+    float: right;
+    text-align:justify;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    direction: rtl;
+    margin: 0;
+}
+html#marw #info {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0;
+  }
+  html#marw #info td, #info th 
+  {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  html#marw #info tr:nth-child(even)
+  {
+      background-color: #f2f2f2;
+  }
+  html#marw #info tr:hover 
+  {
+      background-color: #ddd;
+  }
+  html#marw #info th 
+  {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #04AA6D;
+    color: white;
+    font-size: 30px;
+  }
+  html#marw #info td
+  {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+  html#marw #info  th, td {
+    padding: 15px;
+  }
+
+
+  html#marw footer
+{
+  text-align: center;
+  padding: 3px;
+  background-color: black;
+  height: 100px;
+  margin: 60px 0px 0 0px;
+  display: block;
+  margin: 0;
+}
+html#marw .fa
+{
+    padding: 20px;
+    font-size: 30px;
+    width: 0px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: white;
+    background-color: black;
+}
+html#marw .fa:hover
+{
+    color: rgb(207, 177, 8);
+}
+html#marw footer.label
+{
+    margin: 20px 0px 0px 0px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 25px;
+}
+
+html#marw footer p
+{
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fa
+{
+    padding: 20px;
+    font-size: 30px;
+    width: 0px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: white;
+    background-color: black;
+    
+}
+.fa:hover
+{
+    color: rgb(207, 177, 8);
+}
+div.logo
+{
+    margin: 0px 0px -10px 0px;
+    margin-bottom: 0;
+    display: block;
+    margin-top: 60px;
+}
+div.label
+{
+    margin: 20px 0px 0px 0px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+}
+.label h4
+{
+    background-color: black;
+}
+.logo p
+{
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+
+}
+
+
